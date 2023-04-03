@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author uzera
+ *
+ */
+module FirstApp {
+}
